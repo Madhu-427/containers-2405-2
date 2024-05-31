@@ -1,0 +1,36 @@
+img {
+    width: 300px;
+}
+.Ipl {
+    background-color: orangered;
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    border: 10px outset lightblue;
+    box-shadow: 10px 10px 10px goldenrod;
+    border-radius: 15px;
+}
+.Ipl:hover{
+    border: 10px dashed lightgreen;
+    background-color: blueviolet;
+
+
+}
+.Ipl p{
+    text-align: justify;
+}
+
+nav {
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 20px 15px 15px gray;
+}
+nav:hover{
+    background-color: blanchedalmond;
+    border: 10px inset lightblue;
+
+}
